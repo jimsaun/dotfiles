@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/spicetify/preview.jpg)
-
 ```
 ███████╗██████╗ ██╗ ██████╗███████╗████████╗██╗███████╗██╗   ██╗
 ██╔════╝██╔══██╗██║██╔════╝██╔════╝╚══██╔══╝██║██╔════╝╚██╗ ██╔╝
@@ -8,3 +6,5 @@
 ███████║██║     ██║╚██████╗███████╗   ██║   ██║██║        ██║   
 ╚══════╝╚═╝     ╚═╝ ╚═════╝╚══════╝   ╚═╝   ╚═╝╚═╝        ╚═╝   
 ```
+
+![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/spicetify/preview.png)
