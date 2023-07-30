@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jimsaun/dotfiles/vps/preview.jpg)
+![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/spicetify/preview.jpg)
 
 ```
 ███████╗██████╗ ██╗ ██████╗███████╗████████╗██╗███████╗██╗   ██╗
