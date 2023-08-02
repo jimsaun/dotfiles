@@ -196,7 +196,7 @@
 .main-playPauseButton-button:focus,
 .main-playPauseButton-button:hover {
     transform: none;
-    color: var(--spice-text);
+    color: var(--spice-subtext);
 }
 #_R_G *:not([fill="none"]) {
     fill: var(--spice-button-active) !important;
@@ -650,7 +650,7 @@
     .x-progressBar-fillColor {
     height: 9px;
     background-color: transparent;
-    border-bottom: 2px dashed var(--fg-color);
+    border-bottom: 2px dashed var(--spice-text);
 }
 .volume-bar__slider-container .x-progressBar-progressBarBg {
     background-color: transparent;
@@ -662,7 +662,7 @@
 }
 .player-controls__buttons,
 .main-nowPlayingBar-extraControls {
-    opacity: 0.25;
+    opacity: 1;
 }
 .player-controls__buttons:hover,
 .main-nowPlayingBar-extraControls:hover {
@@ -690,7 +690,7 @@
 .main-playPauseButton-button:has(
         path[d="M5.7 3a.7.7 0 0 0-.7.7v16.6a.7.7 0 0 0 .7.7h2.6a.7.7 0 0 0 .7-.7V3.7a.7.7 0 0 0-.7-.7H5.7zm10 0a.7.7 0 0 0-.7.7v16.6a.7.7 0 0 0 .7.7h2.6a.7.7 0 0 0 .7-.7V3.7a.7.7 0 0 0-.7-.7h-2.6z"]
     )::before {
-    content: "\275A\275A";
+    content: "\2759\2759";
 }
 .main-skipForwardButton-button::before {
     content: "→";
